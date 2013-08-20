@@ -14,9 +14,9 @@ example usage:
 
 returns:
 
-"
-<div>
-  <span>test test</span>
-</div>
+    "
+    <div>
+      <span>test test</span>
+    </div>
 
-"
+    "
