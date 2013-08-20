@@ -3,13 +3,13 @@ multiLine
 
 example usage:
 
-(function(){/*~
+    (function(){/*~
+    
+    <div>
+      <span>test test</span>
+    </div>
 
-<div>
-  <span>test test</span>
-</div>
-
-~*/}).multiLine();
+    ~*/}).multiLine();
 
 
 returns:
