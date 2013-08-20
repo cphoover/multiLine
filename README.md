@@ -28,4 +28,4 @@ the /*! docblock is preserved in yuicompressor and yuglify.js
 To DO
 =========
 * Provide Template Support via underscore.js
-* Fork uglify-js to preserve comments. or create build task to convert
+* Create build task to convert
