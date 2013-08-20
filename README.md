@@ -20,3 +20,6 @@ returns:
     </div>
 
     "
+
+
+@todo Fork uglify-js to preserve comments. or create build task to convert
