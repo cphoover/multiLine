@@ -21,5 +21,10 @@ returns:
 
     "
 
+Note
+=========
+the /*! docblock is preserved in yuicompressor and yuglify.js
 
-@todo Fork uglify-js to preserve comments. or create build task to convert
+To DO
+=========
+Fork uglify-js to preserve comments. or create build task to convert
